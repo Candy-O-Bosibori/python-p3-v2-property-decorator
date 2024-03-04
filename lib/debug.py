@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from dog import Dog
-import ipdb
+import ipdb 
 
 ipdb.set_trace()
+Dog("Fido", "Corgi")
